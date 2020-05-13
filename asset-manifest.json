@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DemoReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/DemoReact/static/js/main.37e67225.chunk.js",
+    "main.js.map": "/DemoReact/static/js/main.37e67225.chunk.js.map",
+    "runtime-main.js": "/DemoReact/static/js/runtime-main.8e69df61.js",
+    "runtime-main.js.map": "/DemoReact/static/js/runtime-main.8e69df61.js.map",
+    "static/js/2.5b7492d1.chunk.js": "/DemoReact/static/js/2.5b7492d1.chunk.js",
+    "static/js/2.5b7492d1.chunk.js.map": "/DemoReact/static/js/2.5b7492d1.chunk.js.map",
+    "index.html": "/DemoReact/index.html",
+    "precache-manifest.beb307503f1dd7cbc248ed7bd57bd256.js": "/DemoReact/precache-manifest.beb307503f1dd7cbc248ed7bd57bd256.js",
+    "service-worker.js": "/DemoReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/DemoReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5b7492d1.chunk.js.LICENSE.txt": "/DemoReact/static/js/2.5b7492d1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/DemoReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e69df61.js",
+    "static/js/2.5b7492d1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.37e67225.chunk.js"
+  ]
+}
